@@ -1,0 +1,7 @@
+# Use the existing micro3dimp environment; check before submitting.
+numpy>=1.24,<3
+scipy>=1.10,<2
+torch>=2.1,<3
+scikit-learn>=1.2,<2
+matplotlib>=3.6,<4
+threadpoolctl>=3,<4

@@ -6,6 +6,7 @@ It fits longitudinal count data with a zero-inflated negative binomial observati
 model, smooth background trajectories and an event dictionary. It uses MAP
 initialization followed by structured variational inference.
 
+Analysis scripts for the manuscript are available in the [analysis directory](analysis/README.md).
 ## Install
 
 Python 3.10 or later. From the package directory:
